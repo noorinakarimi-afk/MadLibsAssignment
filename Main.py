@@ -8,7 +8,7 @@
 # You will read in multiple entries from the user and store the results in variables
 # You will then insert those variables into the following story to create a MadLib style result
 
-# A recent survey informs us that one out of every PLURALNOUN1 owns a/an ADJECTIVE1 phone.
+# A recent survey informs us that one out of every five PLURALNOUN1 owns a/an ADJECTIVE1 phone.
 # Fortunately, VERB_ENDING_IN_ING1 over a mobile NOUN1 in recent years has improved ADVERB1.
 # Today, BODYPART1-held PLURALNOUN2 are all the rage.
 # In restaurants, you find many PLURALNOUN3 talking ADVERB2 into their ADJECTIVE2 phones as they eat their NOUN2.
@@ -21,3 +21,11 @@
 #############################################
 
 # THIS IS WHERE YOU CODE
+print("Welcome to my MadLibs!")
+input("Enter a plural noun")
+plu1=input()
+input("Enter an adjective")
+adj1=input()
+
+
+
