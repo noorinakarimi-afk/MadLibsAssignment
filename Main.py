@@ -22,10 +22,34 @@
 
 # THIS IS WHERE YOU CODE
 print("Welcome to my MadLibs!")
-input("Enter a plural noun")
+print("Enter a plural noun: ")
 plu1=input()
-input("Enter an adjective")
+print("Enter an adjective: ")
 adj1=input()
+print("Enter a verb ending in ing: ")
+verb1=input()
+print("Enter a noun: ")
+noun1=input()
+print("You're doing great, keep going!")
+print("Now enter an adverb: ")
+adv1=input()
+print("Enter a body part: ")
+bodyp1=input()
+print("Hurry up and give me another plural noun: ")
+plu2=input()
+print("Enter another plural noun: ")
+plu3=input()
+print("Time for a second adverb now: ")
+adv2=input()
+print("Now enter another adjective: ")
+adj2=input()
+print("Enter a noun: ")
+noun2=input()
+print("Good job! Now enter a number: ")
+num1=input()
+
+print("A recent survey informs us that one out of every five",plu1,"owns a",adj1,"phone.")
+
 
 
 
